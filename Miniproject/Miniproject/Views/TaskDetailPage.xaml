@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Miniproject.Views.TaskDetailPage"
+             xmlns:local="clr-namespace:Miniproject.ViewModels"  
+             Title="{Binding Title}">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Delete" Command="{Binding DeleteTaskCommand}" />
+    </ContentPage.ToolbarItems>
+
+    <StackLayout Spacing="20" Padding="15" x:DataType="local:TaskDetailViewModel">
+        <Label Text="This Task is complete"
+               IsVisible="{Binding IsComplete}"
+               HorizontalOptions="Center"
+               FontSize="Large"/>
+        <Label Text="Title:" FontSize="Medium" />
+        <Label Text="{Binding TaskTitle}" FontSize="Small"/>
+        <Label Text="Description:" FontSize="Medium" />
+        <Label Text="{Binding Description}" FontSize="Small"/>
+        <Button Text="Complete the task"
+                VerticalOptions="EndAndExpand"
+                Command="{Binding CompleteTaskCommand}">
+            <Button.Triggers>
+                <DataTrigger TargetType="Button" Binding="{Binding IsComplete}" Value="true">
+                    <Setter Property="IsVisible" Value="false"/>
+                </DataTrigger>
+            </Button.Triggers>
+        </Button>
+    </StackLayout>
+    
+</ContentPage>

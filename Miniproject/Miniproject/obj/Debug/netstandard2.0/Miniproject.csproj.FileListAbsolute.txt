@@ -1,0 +1,16 @@
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\bin\Debug\netstandard2.0\Miniproject.deps.json
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\bin\Debug\netstandard2.0\Miniproject.dll
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\bin\Debug\netstandard2.0\ref\Miniproject.dll
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\bin\Debug\netstandard2.0\Miniproject.pdb
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\Views\NewTaskPage.xaml.g.cs
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\Views\TaskDetailPage.xaml.g.cs
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\Views\TasksPage.xaml.g.cs
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\Miniproject.AssemblyInfoInputs.cache
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\Miniproject.AssemblyInfo.cs
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\Miniproject.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\Miniproject.dll
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\ref\Miniproject.dll
+C:\Users\jose_\source\repos\Miniproject\Miniproject\Miniproject\obj\Debug\netstandard2.0\Miniproject.pdb
